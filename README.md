@@ -13,10 +13,11 @@ A: Idea generation
 3) **Which are the 2 types/categories your information can be?**
 A: Conceptual and Data-Driven
 
-4) **If I have Data-driven information, is this qualitative or quantitative? **
+4) **If I have Data-driven information, is this qualitative or quantitative?**
 A: quantitative
 
 ## Chapter 4
+
 1) **What are the 4 steps to make better charts?**
 A: 1 Prep, 2 Talk and listen, 3 Sketch, 4 Prototype
 
@@ -27,10 +28,8 @@ A: Paper, Digital & Paired
 3) **When you want to show some information, what are the 4 categoriers for these vizuaizations?**
 A: Comparison, relationship, composition & distribution
 
-
 4) **What char is better when you want to show a comparison among item, with one variable per item and few categories?**
 A: Barchart
-     - 
 
 
 
@@ -47,7 +46,7 @@ A: 5%
 
 4) **What is the satrting question to decide if you should keep or not a element?**
 A: "Is this element necessary?"
-     - 
+
 
 
 ## Chapter 6
@@ -62,7 +61,7 @@ A: it is to change the reference points—the variables that complement or contr
 
 4) **This is a persuasion strategy, a manipulation that exploits the overwhelming power of the visual perception system in order to communicate something more convincingly than text can.** 
 A: chart 
-     - 
+
 
 
 ## Chapter 7
@@ -80,4 +79,4 @@ A: exaggeration, omission, equivocation.
 
 4) **Complete. Sometimes people equate truncating the y-axis with not starting...**
 A: zero
-     - 
+    
