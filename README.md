@@ -2,8 +2,7 @@
 
 
 ## Chapter 3
-1. ****
-     - 
+
 1) **What are the four types of visual communication?**
 A:Idea illustration, Idea generation, Visual discovery & Everyday dataviz
 
